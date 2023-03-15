@@ -1,0 +1,3 @@
+,text,general_tags,specific_tags,token_tagset
+0,pro-Peter,['JJ'],['JJ'],['Flair']
+1,The weak minded ones have now turned Lim and Kerwin the innocent Espinosa + other bilibid kings like Peter Co .,"['DT', 'JJ', 'JJ', 'NOUN', 'VB', 'RB', 'VB', 'FW', 'CONJ', 'FW', 'DT', 'JJ', 'PROPN', 'SYM', 'JJ', 'NOUN', 'NOUN', 'IN', 'PROPN', 'PROPN', 'PUNC']","['DT', 'JJ', 'JJ', 'NNS', 'VBP', 'RB', 'VBN', 'FW', 'CC', 'FW', 'DT', 'JJ', 'NNP', 'PMS', 'JJ', 'NNC', 'NNS', 'IN', 'NNP', 'NNP', 'PMP']","['Flair', 'Flair', 'Flair', 'Flair', 'Flair', 'Flair', 'Flair', 'MGNN', 'Flair', 'MGNN', 'Flair', 'Flair', 'MGNN', 'MGNN', 'Flair', 'MGNN', 'Flair', 'Flair', 'Flair', 'Flair', 'MGNN']"
